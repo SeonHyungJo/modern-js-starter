@@ -55,6 +55,13 @@
     "rollup": "^1.1.1",
     "rollup-plugin-babel": "^4.3.2",
     "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-string": "^2.0.2",
     "rollup-plugin-terser": "^4.0.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.2.0"
+  },
+  "engines": {
+    "node": ">=8"
   }
 }
