@@ -42,7 +42,7 @@ npx eslint --init // 이렇게 하면 여러 질문을 할 것이다.
 <br/>
 
 > [standard js에 대해서](https://standardjs.com/)
-> <br/>
+ > <br/>
 
 ## prettier
 
@@ -50,4 +50,4 @@ npx eslint --init // 이렇게 하면 여러 질문을 할 것이다.
 
 > [Git 주소](https://github.com/prettier/prettier)
 
-:point_right: [Chapter 3 바로가기](https://github.com/SeonHyungJo/modern-js-starter/tree/CH-4)
+:point_right: [Chapter 4 바로가기](https://github.com/SeonHyungJo/modern-js-starter/tree/CH-4)
