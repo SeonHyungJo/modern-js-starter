@@ -1,2 +1,5 @@
 # modern-js-starter
-Modern JS Project Starter for beginner
+
+Add CSS and rollup-plugin-string
+
+- Add CSS and rollup plugin
