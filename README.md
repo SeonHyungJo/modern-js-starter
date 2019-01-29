@@ -1,2 +1,6 @@
 # modern-js-starter
-Modern JS Project Starter for beginner
+
+Add rollup and babel with react
+
+- Add rollup plugin
+- Add react
