@@ -2,7 +2,9 @@
   "name": "modern-js-starter",
   "version": "1.0.0",
   "description": "Modern JS Project Starter for beginner",
-  "main": "index.js",
+  "main": "dist/bundle.cjs.js",
+  "module": "dist/bundle.esm.js",
+  "sideEffects": false,
   "scripts": {
     "clean": "rimraf dist",
     "prebuild": "npm run clean",
